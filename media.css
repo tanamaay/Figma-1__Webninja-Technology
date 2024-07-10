@@ -161,13 +161,12 @@
     max-width: 238px;
   }
   .svg-icon {
-    /* max-width: 53.2px; */
+   
     padding: 10px 10px;
   }
 
   .svg-icon > img {
     max-width: 28.25px;
-    /* height: 40px; */
   }
 
   .real-time > h3 {
@@ -302,13 +301,6 @@
   }
   .setting-img{
     max-width: 37.35px;
-  }
-
-  .row-1 {
-    /* display: none; */
-  }
-  .row-2 {
-    /* display: none; */
   }
   .rows{
     gap: 16px;
